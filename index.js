@@ -1,4 +1,4 @@
-unction formValidation() {
+function formValidation() {
 // Make quick references to our fields.
 var firstname = document.getElementById('firstname');
 var addr = document.getElementById('addr');
